@@ -40,7 +40,8 @@ Default Kubernetes cluster deployments and flat cloud networking models inherent
 
 ## Architecture Diagram
 
-[Placeholder: Architecture Diagram showing Local Management IP -> EKS Public/Private API Control Plane -> AWS VPC CNI Engine -> Default Deny Isolation Boundary -> Frontend Egress to CoreDNS and Backend Ingress]
+<img width="1170" height="828" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/0fb3f18c-7e12-4ed4-9157-25c63df2181b" />
+
 
 ## Project Procedure
 
